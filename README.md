@@ -2,7 +2,9 @@
 
 ### Check your attendance ----- $\textcolor{blue}{Updated\ on\ 10th\ September\ 2024\}$ ------ [Click here](https://docs.google.com/spreadsheets/d/1g6Bkx4F0SZnFVuvpEhR2SipWDqnjD6bE/edit?usp=drive_link&ouid=116384381532910939364&rtpof=true&sd=true)
 
+### - $\textcolor{green}{Use\ IIITG\ mail\ to\ access\ the\ course\ materials.\}$
 
+### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
 
 ### Slides
 | Sl. No. | Date of Lecture Session | Topic | Slide / Lecture Note|                                                                                              
