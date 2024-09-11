@@ -14,14 +14,14 @@
 | 3   | 21-Aug-2024 | Wed   |Lecture 03 - Number Systems - Arithmetic Operations | [Pages: 11--]()|
 | 4   | 23-Aug-2024 | Fri      |Lecture 04 - r's & (r-1)'s Complement  | [Pages: 10--11]()|
 | 5   | 26-Aug-2024 | Mon      |Lecture 05 - Subtraction using r's & (r-1)'s Complement, Binary Codes                | [Pages: 12--14]()|
-| 6   | 28-Aug-2024 | Wed   |Lecture 06 - Binary Codes (Contd.)                | [Click here](https://drive.google.com/file/d/1nVh8jywEoSu345aTMSB1DY9-VADQO3iz/view?usp=drive_link)| 
-| 7   | 30-Aug-2024 | Fri      |Lecture 07 - Binary Codes                 | [Click here]()|
-| 8   | 02-Sep-2024 | Mon      |Lecture 08 - Binary Codes                 | [Click here]()|
-| 9   | 04-Sep-2024 | Wed      |Lecture 09 - Boolean Algebra - Laws & Postulates               | [Click here]()|
-| 10  | 06-Sep-2024 | Fri      |Lecture 10 - Boolean Algebra (Examples, Dual/Self Dual), SOP & POS, Minterm & Maxterm                | [Click here]()|
+| 6   | 28-Aug-2024 | Wed      |Lecture 06 - Binary Codes (Contd.)                | [Click here](https://drive.google.com/file/d/1nVh8jywEoSu345aTMSB1DY9-VADQO3iz/view?usp=drive_link)| 
+| 7   | 30-Aug-2024 | Fri      |Lecture 07 - Binary Codes  (Contd.)               | [Click here]()|
+| 8   | 02-Sep-2024 | Mon      |Lecture 08 - Boolean Algebra - Laws & Postulates                 | [Click here]()|
+| 9   | 04-Sep-2024 | Wed      |Lecture 09 - Boolean Algebra (Examples, Dual/Self Dual), SOP & POS, Minterm & Maxterm              | [Click here]()|
+| 10  | 06-Sep-2024 | Fri      |Lecture 10 - Minterms & Maxterms (Examples), SOP to POS, POS to SOP               | [Click here]()|
 | 11  | 09-Sep-2024 | Mon      |Lecture 11 - Digtial Gates & K-Maps       | [Click here](https://drive.google.com/file/d/1RudjmH9ASMBZZO6dXj6eDUGVeobrupe8/view?usp=drive_link)|   
-| 12  | 11-Sep-2024 |  Wed  |Lecture 12 - K-Maps for SOPs              | [Click here](https://drive.google.com/file/d/1C27XU0yNLYyWRPfTpp0WAJuX1v6ikkai/view?usp=drive_link)|  
-| 13  | 13-Sep-2024 |  Fri   |Lecture 13 - K-Maps for POSs & Two-Level Implementation             | [Click here]()| 
-| 14  | 14-Sep-2024 |  Sat (* Extra Class)  |Lecture 14 - Combinational Circuit I          | [Click here]()| 
+| 12  | 11-Sep-2024 |  Wed     |Lecture 12 - K-Maps for SOPs              | [Click here](https://drive.google.com/file/d/1C27XU0yNLYyWRPfTpp0WAJuX1v6ikkai/view?usp=drive_link)|  
+| 13  | 13-Sep-2024 |  Fri     |Lecture 13 - K-Maps for POSs & Two-Level Implementation             | [Click here]()| 
+| 14  | 14-Sep-2024 |  Sat (*)  |Lecture 14 - Combinational Circuit I          | [Click here]()| 
 
 ### First Quiz ----- $\textcolor{blue}{To\ be\ held\ on\ 17th\ September\ 2024\}$ 
