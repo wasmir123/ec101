@@ -9,8 +9,8 @@
 ### Lecture Details
 | Sl. No. | Date / Day            | Topic | Slide / Lecture Note / Lecture Source|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
-| 1   | 16-Aug-2024 / Friday      |Lecture 01 - Introduction                 | [Click here]()|
-| 2   | 19-Aug-2024 / Monday      |Lecture 02 - Binary Codes                 | [Click here]()|
+| 1   | 16-Aug-2024 / Friday      |Lecture 01 - Introduction                 | [Pages: 01--05](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
+| 2   | 19-Aug-2024 / Monday      |Lecture 02 - Number Systems & COnversions | [Pages: 05--11](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
 | 3   | 21-Aug-2024 / Wednesday      |Lecture 03 - Binary Codes              | [Click here]()|
 | 4   | 23-Aug-2024 / Friday      |Lecture 04 - Binary Codes                 | [Click here]()|
 | 5   | 16-Aug-2024 / Monday      |Lecture 05 - Binary Codes                 | [Click here]()|
