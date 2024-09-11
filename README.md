@@ -24,4 +24,4 @@
 | 13       | 13-Sep-2024 /  Friday   |Lecture 13 - K-Maps for POSs & Two-Level Implementation             | [Click here]()| 
 | 14       | 14-Sep-2024 /  Saturday  |Lecture 14 - Combinational Circuit I          | [Click here]()| 
 
-### First Quiz ----- $\textcolor{blue}{To be held \ on\ 17th\ September\ 2024\}$ 
+### First Quiz ----- $\textcolor{blue}{To \be \held \ on\ 17th\ September\ 2024\}$ 
