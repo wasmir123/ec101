@@ -7,7 +7,7 @@
 ### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
 
 ### Lecture Details
-| Sl. No. | Date / Day | Topic | Slide / Lecture Note / Lecture Source|                                                                                              
+| Sl. No. | Date / Day            | Topic | Slide / Lecture Note / Lecture Source|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 | 1   | 16-Aug-2024 / Friday      |Lecture 01 - Introduction                 | [Click here]()|
 | 2   | 19-Aug-2024 / Monday      |Lecture 02 - Binary Codes                 | [Click here]()|
