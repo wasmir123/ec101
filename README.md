@@ -20,8 +20,8 @@
 | 9   | 04-Sep-2024 | Wed      |Lecture 09 - Boolean Algebra (Examples, Dual/Self Dual), SOP & POS, Minterm & Maxterm              | [Class Notes]()|
 | 10  | 06-Sep-2024 | Fri      |Lecture 10 - Minterms & Maxterms (Examples), SOP to POS, POS to SOP               | [Pages: 49--55]()|
 | 11  | 09-Sep-2024 | Mon      |Lecture 11 - Digtial Gates & K-Maps       | [Click here](https://drive.google.com/file/d/1RudjmH9ASMBZZO6dXj6eDUGVeobrupe8/view?usp=drive_link)|   
-| 12  | 11-Sep-2024 |  Wed     |Lecture 12 - K-Maps for SOPs              | [Click here](https://drive.google.com/file/d/1C27XU0yNLYyWRPfTpp0WAJuX1v6ikkai/view?usp=drive_link)|  
-| 13  | 13-Sep-2024 |  Fri     |Lecture 13 - K-Maps for POSs & Two-Level Implementation             | [Click here]()| 
+| 12  | 11-Sep-2024 |  Wed     |Lecture 12 - K-Maps Examples for SOPs, Don't Care Conditions              | [Pages: 74--80, 98--100]()|  
+| 13  | 13-Sep-2024 |  Fri     |Lecture 13 - K-Maps for POSs & Two-Level Implementation             | [Pending]()| 
 | 14  | 14-Sep-2024 |  Sat (*)  |Lecture 14 - Combinational Circuit I          | [Pending]()| 
 
 ### First Quiz ----- $\textcolor{blue}{To\ be\ held\ on\ 17th\ September\ 2024\}$ 
