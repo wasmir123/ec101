@@ -22,7 +22,7 @@
 | 11  | 09-Sep-2024 | Mon      |Lecture 11 - Digtial Gates & K-Map (Basics)       | [Click here for Slide](https://drive.google.com/file/d/1g5MVvwaj-g-7xlU8jLyxLvAfUVmoZPFq/view?usp=sharing)|   
 | 12  | 11-Sep-2024 |  Wed     |Lecture 12 - K-Maps for SOPs & Don't Care Conditions              | [Click here for Slide](https://drive.google.com/file/d/1Eyksl8dWdyU6Wwif6TvaN7w8o_7JgfKi/view?usp=sharing)|  
 | 13  | 13-Sep-2024 |  Fri     |Lecture 13 - K-Maps for POSs & Gate Symbols           | [Click here for Slide](https://drive.google.com/file/d/1TloFGzJh7zW8o6UiNmquVUy_hgUaw0lF/view?usp=drive_link)|
-| 14  | 14-Sep-2024 |  Sat (*) |Lecture 14 - NAND & NOR Implementations         | [Click here for Slide](https://drive.google.com/file/d/1no_5Pj6MLCJUsqsrIcQHgCwGKiN5bLyh/view?usp=drive_link)| 
-| 14  | 14-Sep-2024 |  Sat (*) |Lecture 15 - Combinational Circuit - Adder & Subtractor         | [Text Book Pages: 114--123](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
+| 14  | 14-Sep-2024 |  Sat (Monday Time Table) |Lecture 14 - NAND & NOR Implementations         | [Click here for Slide](https://drive.google.com/file/d/1no_5Pj6MLCJUsqsrIcQHgCwGKiN5bLyh/view?usp=drive_link)| 
+| 14  | 14-Sep-2024 |  Sat (Extra Lecture) |Lecture 15 - Combinational Circuit - Adder & Subtractor         | [Text Book Pages: 114--123](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
 
 ### First Quiz ----- $\textcolor{blue}{To\ be\ held\ on\ 17th\ September\ 2024\}$ 
