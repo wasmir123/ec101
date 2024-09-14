@@ -26,3 +26,19 @@
 | 14  | 14-Sep-2024 |  Sat (Extra Lecture) |Lecture 15 - Combinational Circuit - Adder & Subtractor         | [Text Book Pages: 114--123](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
 
 ### First Quiz ----- $\textcolor{blue}{To\ be\ held\ on\ 17th\ September\ 2024\}$ 
+
+
+### Text Books & Other Materials
+| Sl. No. | Book/Source w/ Author  Link to Source|                                                                                              
+|:---:|:--:|:--|:--------------------------:|
+| 1       | Electronic Devices, Floyd, 9th Edition                                   [EDFloyd9th](https://drive.google.com/file/d/1c7afu7bZdLWjZCwdJVBVNuywIrtSWRbh/view?usp=drive_link)| 
+| 2       | Microelectronic Circuits, Rashid, 2th Edition                            [MCRashid2nd](https://drive.google.com/file/d/1nrcsEI2a1WSicE3VEgikrJilBDoogtRQ/view?usp=drive_link)|   
+| 3       | Fundamentals of Electric Circuits, Alexander, Sadiku  4th Edition        [DECAlexanderSadiku4th](https://drive.google.com/file/d/1-GgRQoRwo2LLSLfVTbf_R7O_xOXJE6cC/view?usp=drive_link)|  
+| 4       | Electronic Devices And Circuit Theory, Boylestad, Nashelsky, 7th Edition [EDCTBoylestadNashelsky7th](https://drive.google.com/file/d/1wtMCRSjVPcuH4O-P7jQfM6XhAgpGMwRj/view?usp=drive_link)|
+| 5       | Electronics Devices and Circuits, Millman, Halkias, 3E                   [EDCMillmanHalkias3rd](https://drive.google.com/file/d/1gOIQ4igj9aIk_UbRZidZEWf6RrYi0K0l/view?usp=drive_link)| 
+| 6       | Fundamentals Principles of Electronics, Ghosh                             [FPEGhosh](https://drive.google.com/file/d/18EY3cO8ABBfsaoCdSG49-zXskVrP1vTl/view?usp=drive_link)|   
+| 7       | Microelectronic Circuits, Sedra, Smith , 5th Edition                     [MCSedraSmith5th](https://drive.google.com/file/d/14lmwN6eXiNc9FhsmR-8zWhAch9TgNL4E/view?usp=drive_link)|  
+| 8       | Microelectronic Circuits, Sedra, Smith, 6th Edition                      [MCSedraSmith6th](https://drive.google.com/file/d/1tE5_JP7BTmpXA534-nC8elmAt_mIpsXz/view?usp=drive_link)|
+| 9       | Operational Amplifiers & Linear Integrated Circuits, Fiore, 3rd Edition  [OALICFiore3rd](https://drive.google.com/file/d/12eif4aKTSKeLkbMX6yXnKdLuR4TFzJvv/view?usp=drive_link)| 
+| 10      | Oscillators, University of Cincinnati, ECES 352 Winter 2007               [ECES352Winter2007](https://docs.google.com/presentation/d/1ynPjHI-oBTz8gG-su4NwTZF-xLRFdXyK/edit?usp=drive_link&ouid=116384381532910939364&rtpof=true&sd=true)|
+| 11      | Op-amp Comparators & Positive Feedback, MIT Open Course Ware, Spring 2006[MIT_OCW_Spring2006](https://drive.google.com/file/d/1HFjFLWVZ-kb9YSOw8hz2S3njShboO5vw/view?usp=drive_link)|
