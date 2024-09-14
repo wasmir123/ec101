@@ -31,11 +31,11 @@
 ### Text Books & Other Materials
 | Sl. No. | Source with Author and Edition  | Link to Source|                                                                                              
 |:-------:|:----------------------:|--------------------------:|
-| 1       | Text Book: Digital Logic and Computer Design, M. M. Mano, 2nd Edition                               |    []()| 
-| 2       | Solution Manual: Digital Logic and Computer Design, M. M. Mano, 2nd Edition                         |   []()|   
-| 3       | Text Book: Digital Design, M. M. Mano, M. D. Ciletti, 4th Edition      |  []()|  
-| 4       | Text Book: Digital Design, M. M. Mano, M. D. Ciletti, 5th Edition |[]()|
-| 5       | Solution Manual: Digital Design, M. M. Mano, M. D. Ciletti, 5th Edition                 | []()| 
-| 6       | Text Book: Digital Principles and Applications, D. P. Leach, A. P. Malvino, G. Saha, 7th Edition |[]()|  
-| 7       | Lecture Note: Section 3.7 - Digital Logic Gates, University of California Riverside                    | []()|  
-| 8       | Text Book: Modern Digital Electronics, RP Jain, 4th Edition |[]()|
+| 1       | Text Book: Digital Logic and Computer Design, M. M. Mano, 2nd Edition                               |    [Click here](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| 
+| 2       | Solution Manual: Digital Logic and Computer Design, M. M. Mano, 2nd Edition                         |   [Click here](https://drive.google.com/file/d/1YnvCAlSnfVS-8lwSkC_rnhPbwqNx_H1W/view?usp=sharing)|   
+| 3       | Text Book: Digital Design, M. M. Mano, M. D. Ciletti, 4th Edition      |  [Click here](https://drive.google.com/file/d/1PTlgBqAO4ofX4HbTaUM2y_oYx1koRbWP/view?usp=drive_link)|  
+| 4       | Text Book: Digital Design, M. M. Mano, M. D. Ciletti, 5th Edition |[Click here](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
+| 5       | Solution Manual: Digital Design, M. M. Mano, M. D. Ciletti, 5th Edition                 | [Click here](https://drive.google.com/file/d/1akpIuQU6wan0WccXL0bJi3j7zFWZxslE/view?usp=drive_link)| 
+| 6       | Text Book: Digital Principles and Applications, D. P. Leach, A. P. Malvino, G. Saha, 7th Edition |[Click here](https://drive.google.com/file/d/1cPCUpe4CYS7P9_4YxnVSLznG7Gwy0r38/view?usp=sharing)|  
+| 7       | Lecture Note: Section 3.7 - Digital Logic Gates, University of California Riverside                    | [Click here](https://drive.google.com/file/d/1DkSdVALhTSHtqsAUizNE671m8bj13a7A/view?usp=drive_link)|  
+| 8       | Text Book: Modern Digital Electronics, RP Jain, 4th Edition |[Click here](https://drive.google.com/file/d/1_9KzTMSV-4UJnABmbaKB3n3WzH9Npfm4/view?usp=drive_link)|
