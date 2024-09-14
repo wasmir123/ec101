@@ -38,4 +38,4 @@
 | 5       | Solution Manual: Digital Design, M. M. Mano, M. D. Ciletti, 5th Edition                 | []()| 
 | 6       | Text Book: Digital Principles and Applications, D. P. Leach, A. P. Malvino, G. Saha, 7th Edition |[]()|  
 | 7       | Lecture Note: Section 3.7 - Digital Logic Gates, University of California Riverside                    | []()|  
-
+| 8       | Text Book: Modern Digital Electronics, RP Jain, 4th Edition |[]()|
