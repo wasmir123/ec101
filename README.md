@@ -17,7 +17,7 @@
 | 6   | 28-Aug-2024 | Wed      |Lecture 06 - Binary Codes (Contd.)                | [Click here for Slide](https://drive.google.com/file/d/1NsuSRrUvYqSCQ2y6ObQyZyCRqa4K_rCM/view?usp=drive_link)| 
 | 7   | 30-Aug-2024 | Fri      |Lecture 07 - Binary Codes (Contd.)               | [Text Book Pages: 18--25](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
 | 8   | 02-Sep-2024 | Mon      |Lecture 08 - Binary Logic, Boolean Algebra - Laws| [Text Book Pages: 28--32, 36--43](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
-| 9   | 04-Sep-2024 | Wed      |Lecture 09 - Boolean Algebra (Examples, Dual/Self Dual), SOP & POS, Minterm & Maxterm              | [Class Notes (Pending)]()|
+| 9   | 04-Sep-2024 | Wed      |Lecture 09 - Boolean Algebra (Examples, Dual/Self Dual), SOP & POS, Minterm & Maxterm              | [Click here for Note](https://drive.google.com/file/d/14uhMXDuvxKhxn-vXjTOMjuy8D3fapOiU/view?usp=drive_link)|
 | 10  | 06-Sep-2024 | Fri      |Lecture 10 - Minterms & Maxterms (Examples), SOP to POS, POS to SOP               | [Text Book Pages: 49--55](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
 | 11  | 09-Sep-2024 | Mon      |Lecture 11 - Digtial Gates & K-Map (Basics)       | [Click here for Slide](https://drive.google.com/file/d/1g5MVvwaj-g-7xlU8jLyxLvAfUVmoZPFq/view?usp=sharing)|   
 | 12  | 11-Sep-2024 |  Wed     |Lecture 12 - K-Maps for SOPs & Don't Care Conditions              | [Click here for Slide](https://drive.google.com/file/d/1Eyksl8dWdyU6Wwif6TvaN7w8o_7JgfKi/view?usp=sharing)|  
