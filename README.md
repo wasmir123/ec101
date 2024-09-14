@@ -29,13 +29,13 @@
 
 
 ### Text Books & Other Materials
-| Sl. No. | Source w/ Author  | Link to Source|                                                                                              
+| Sl. No. | Source with Author and Edition  | Link to Source|                                                                                              
 |:-------:|:----------------------:|--------------------------:|
 | 1       | Text Book: Digital Logic and Computer Design, M. M. Mano, 2nd Edition                               |    []()| 
 | 2       | Solution Manual: Digital Logic and Computer Design, M. M. Mano, 2nd Edition                         |   []()|   
 | 3       | Text Book: Digital Design, M. M. Mano, M. D. Ciletti, 4th Edition      |  []()|  
 | 4       | Text Book: Digital Design, M. M. Mano, M. D. Ciletti, 5th Edition |[]()|
 | 5       | Solution Manual: Digital Design, M. M. Mano, M. D. Ciletti, 5th Edition                 | []()| 
-| 6       | Fundamentals Principles of Electronics, Ghosh                             |[FPEGhosh](https://drive.google.com/file/d/18EY3cO8ABBfsaoCdSG49-zXskVrP1vTl/view?usp=drive_link)|   
-| 7       | Microelectronic Circuits, Sedra, Smith , 5th Edition                     | [MCSedraSmith5th](https://drive.google.com/file/d/14lmwN6eXiNc9FhsmR-8zWhAch9TgNL4E/view?usp=drive_link)|  
+| 6       | Text Book: Digital Principles and Applications, D. P. Leach, A. P. Malvino, G. Saha, 7th Edition |[]()|  
+| 7       | Lecture Note: Section 3.7 - Digital Logic Gates, University of California Riverside                    | []()|  
 
