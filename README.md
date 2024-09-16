@@ -25,7 +25,8 @@
 | 14  | 14-Sep-2024 |  Sat (Monday Time Table) |Lecture 14 - NAND & NOR Implementations         | [Click here for Slide](https://drive.google.com/file/d/1no_5Pj6MLCJUsqsrIcQHgCwGKiN5bLyh/view?usp=drive_link)| 
 | 14  | 14-Sep-2024 |  Sat (Extra Lecture) |Lecture 15 - Combinational Circuit - Adder & Subtractor         | [Text Book Pages: 114--123](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
 
-### First Quiz ----- $\textcolor{blue}{To\ be\ held\ at\ 5:15 pm\ on\ 17th\ September\ 2024\ (\ Tuesday\ )\}$ 
+### First Quiz ----- $\textcolor{blue}{To\ be\ held\ at\ 5\:\15\ pm\ on\ 17th\ September\ 2024\ (\ Tuesday\ )\}$ 
+### Second Quiz ----- $\textcolor{blue}{To\ be\ announced\ later\}$ 
 
 
 ### Text Books & Other Materials
