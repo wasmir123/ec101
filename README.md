@@ -30,6 +30,7 @@
 | 18     | 20-Sep-2024 |  Fri (Adjustment Class) |**Lecture 18** - Combinational Circuits - Decoder, Encoder        | [Text Book Pages: 166--167, 170--171](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
 | 19     | 23-Sep-2024 |  Mon |**Lecture 19** - Combinational Circuits - Priority Encoder, MUX         | [Click here for Slide]()|
 ### First Quiz ----- $\textcolor{blue}{Held\ at\ 5\:15\ pm\ on\ 17th\ September\ 2024\ (\ Tuesday\ )\}$ 
+### Mid Semester Exam ----- $\textcolor{blue}{To\ be\ held\ at\ 5\:30\ pm\ on\ 30th\ September\ 2024\ (\ Monday\ )\}$
 ### Second Quiz ----- $\textcolor{blue}{To\ be\ announced\ later\}$ 
 
 
