@@ -26,9 +26,10 @@
 | 15      | 14-Sep-2024 |  Sat (Extra Lecture) |Lecture 15 - Combinational Circuit - Adder & Subtractor         | [Text Book Pages: 114--123](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
 | 16      | 18-Sep-2024 |  Wed |**Lecture 16** - Combinational Circuit Analysis         | [Click here for Note](https://drive.google.com/file/d/1EUDqwTvYInWYRWVkh6jlvvtob2VAXt6-/view?usp=drive_link)|
 | 17 (i)     | 20-Sep-2024 |  Fri |**Lecture 17 (i)** - Logic Gate - Input-output Signals & Combinational Circuits - BCD-XS3, RCA           | [Text Book Pages: 30--32, 124--126, 154--156](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
-| 17  (ii)    | 20-Sep-2024 |  Fri |**Lecture 17 (ii)** - Combinational Circuits - BCD-7 Segment, HEX-7 Segment, Binary-Gray, Gray-Binary   | [Text Book Pages: 196--198, 205--207](https://drive.google.com/file/d/1_9KzTMSV-4UJnABmbaKB3n3WzH9Npfm4/view?usp=drive_link)|
-| 18     | 20-Sep-2024 |  Fri (Adjustment Class) |**Lecture 18** - Combinational Circuits - Decoder, Encoder        | [Text Book Pages: 166--167, 170--171](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
-| 19     | 23-Sep-2024 |  Mon |**Lecture 19** - Combinational Circuits - Priority Encoder, MUX         | [Click here for Slide]()|
+| 17  (ii)    | 20-Sep-2024 |  Fri |Lecture 17 (ii) - Combinational Circuits - BCD-7 Segment, HEX-7 Segment, Binary-Gray, Gray-Binary   | [Text Book Pages: 196--198, 205--207](https://drive.google.com/file/d/1_9KzTMSV-4UJnABmbaKB3n3WzH9Npfm4/view?usp=drive_link)|
+| 18     | 20-Sep-2024 |  Fri (Adjustment Class) |Lecture 18 - Combinational Circuits - Decoder, Encoder        | [Text Book Pages: 166--167, 170--171](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
+| 19     | 23-Sep-2024 |  Mon |**Lecture 19** - Combinational Circuits - Priority Encoder, MUX         | [Click here for Slide](https://drive.google.com/file/d/1dXxw1jMFD9vlhgK9lrqIyGuEKlEp0hZa/view?usp=drive_link)|
+| 20    | 25-Sep-2024 |  Mon |Lecture 20 - Combinational Circuits - Priority Encoder, MUX         | [Pending]()|
 ### First Quiz ----- $\textcolor{blue}{Held\ at\ 5\:15\ pm\ on\ 17th\ September\ 2024\ (\ Tuesday\ )\}$ 
 ### Mid Semester Exam ----- $\textcolor{blue}{To\ be\ held\ at\ 5\:30\ pm\ on\ 30th\ September\ 2024\ (\ Monday\ )\}$
 ### Second Quiz ----- $\textcolor{blue}{To\ be\ announced\ later\}$ 
