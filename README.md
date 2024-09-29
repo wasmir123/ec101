@@ -34,7 +34,7 @@
 
 
 ### First Quiz ----- $\textcolor{blue}{Held\ at\ 5\:15\ pm\ on\ 17th\ September\ 2024\ (\ Tuesday\ )\}$ 
-### Mid Semester Exam ----- $\textcolor{blue}{To\ be\ held\ at\ 5\:30\ pm\ on\ 30th\ September\ 2024\ (\ Monday\ )\}$
+### Mid Semester Exam ----- $\textcolor{green}{To\ be\ held\ at\ 5\:30\ pm\ on\ 30th\ September\ 2024\ (\ Monday\ )\}$
 ### Second Quiz ----- $\textcolor{blue}{To\ be\ announced\ later\}$ 
 
 
