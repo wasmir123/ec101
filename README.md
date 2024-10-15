@@ -6,7 +6,7 @@
 
 ### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
 
-### Lecture Details [$\textcolor{green}{Till\ Mid\ Semester\}$]
+### Lecture Details [$$\textcolor{green}{Till\ Mid\ Semester\}$$]
 | Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |                                                                                              
 |:-------:|:----:|:-----------------|:------|:-------------------------------:|
 | 1       | 16-Aug-2024 | Fri      | Lecture 01 - Introduction                 | [Text Book Pages: 01--05](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
