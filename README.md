@@ -6,7 +6,7 @@
 
 ### - $\textcolor{red}{Personal\ mail\ will\ have\ no\ access.\ Do \ not\ send\ for\ request\ access\!!!\}$
 
-### Lecture Details
+### Lecture Details [Start to Till Mid Semester]
 | Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |                                                                                              
 |:-------:|:----:|:-----------------|:------|:-------------------------------:|
 | 1       | 16-Aug-2024 | Fri      | Lecture 01 - Introduction                 | [Text Book Pages: 01--05](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
@@ -35,6 +35,15 @@
 
 ### First Quiz ----- $\textcolor{blue}{Held\ at\ 5\:15\ pm\ on\ 17th\ September\ 2024\ (\ Tuesday\ )\}$ 
 ### Mid Semester Exam ----- $\textcolor{green}{To\ be\ held\ at\ 5\:30\ pm\ on\ 30th\ September\ 2024\ (\ Monday\ )\}$
+
+### Lecture Details [After Mid Semester]
+| Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |                                                                                              
+|:-------:|:----:|:-----------------|:------|:-------------------------------:|
+| 22       | 04-Oct-2024 | Fri (Morning Session)      | Lecture 22 - Introduction                 | [Text Book Pages: 01--05](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
+| 23       | 19-Oct-2024 | Fri (Afternoon Session)      |Lecture 23 - Number Systems & Conversions | [Text Book Pages: 05--11](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
+| 24       | 14-Oct-2024 | Mon      |Lecture 24  | [Text Book Pages: 05--11](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)|
+
+
 ### Second Quiz ----- $\textcolor{blue}{To\ be\ announced\ later\}$ 
 
 
