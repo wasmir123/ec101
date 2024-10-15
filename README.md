@@ -39,9 +39,9 @@
 ### Lecture Details [After Mid Semester]
 | Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |  Additional Slide / Lecture Note / Text Book  |                                                                                           
 |:-------:|:----:|:-----------------|:------|:-------------------------------:|:-------------------------------:|
-| 22       | 04-Oct-2024 | Fri (Morning Session)      | Lecture 22 - ROM & PLA with Implementation of Combinational Cicuits | [Text Book Pages: 180--185, 187--192](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Text Book Pages: 315--319, 321--325](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
-
-
+| 22       | 04-Oct-2024 | Fri (Forenoon)      | Lecture 22 - ROM & PLA with Implementation of Combinational Cicuits | [Text Book Pages: 180--185, 187--192](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Text Book Pages: 315--319, 321--325](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
+| 23       | 04-Oct-2024 | Fri (Afternoon)      | Lecture 23 - PAL with Implementation of Combinational Cicuits | [Text Book Pages: 192--196](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Text Book Pages: 325--329](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
+| 24       | 14-Oct-2024 | Mon     | Lecture 24 - Return and Discussion of  Marked Mid Sem Answer Scipts | NA| NA |
 
 
 ### Second Quiz ----- $\textcolor{blue}{To\ be\ announced\ later\}$ 
