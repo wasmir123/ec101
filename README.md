@@ -48,7 +48,7 @@
 
 
 ### Second Quiz ----- $\textcolor{red}{To\ be\ announced\ later\}$ 
-### End Semester Exam ----- $\textcolor{green}{To\ be\ held\ between\ 30th\ November\ and\ 4th\ December\ 2024\)\}$
+### End Semester Exam ----- $\textcolor{red}{To\ be\ held\ between\ 30\th\ November\ and\ 4\th\ December\ 2024\}$
 
 
 ### Text Books & Other Materials
