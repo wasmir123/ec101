@@ -34,7 +34,7 @@
 
 
 ### First Quiz ----- $\textcolor{blue}{Held\ at\ 5\:15\ pm\ on\ 17th\ September\ 2024\ (\ Tuesday\ )\}$ 
-### Mid Semester Exam ----- $\textcolor{green}{To\ be\ held\ at\ 5\:30\ pm\ on\ 30th\ September\ 2024\ (\ Monday\ )\}$
+### Mid Semester Exam ----- $\textcolor{green}{Held\ at\ 5\:30\ pm\ on\ 30th\ September\ 2024\ (\ Monday\ )\}$
 
 ### Lecture Details [After Mid Semester]
 | Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |                                                                                              
