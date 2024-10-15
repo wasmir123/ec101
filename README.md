@@ -47,8 +47,8 @@
 | 27       | 19-Oct-2024 | Sat (Compensation)     | Lecture 27 ~ Sequential Circuits - F/F Conversion | [Pending](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Pending](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
 
 
-### Second Quiz ----- $\textcolor{red}{To\ be\ announced\ later\}$ 
-### End Semester Exam ----- $\textcolor{red}{To\ be\ held\ between\ 30th\ November\ and\ 4th\ December\ 2024\}$
+### → Second Quiz ----- $\textcolor{red}{To\ be\ announced\ later\}$ 
+### → End Semester Exam ----- $\textcolor{red}{To\ be\ held\ between\ 30th\ November\ and\ 4th\ December\ 2024\}$
 
 
 ### Text Books & Other Materials
