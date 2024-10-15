@@ -37,7 +37,7 @@
 ### Mid Semester Exam ----- $\textcolor{green}{Held\ at\ 5\:30\ pm\ on\ 30th\ September\ 2024\ (\ Monday\ )\}$
 
 ### Lecture Details [After Mid Semester]
-| Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |  Additional Slide / Lecture Note / Text Book                                                                                             
+| Sl. No. | Date | Day              | Topic | Slide / Lecture Note / Text Book |  Additional Slide / Lecture Note / Text Book  |                                                                                           
 |:-------:|:----:|:-----------------|:------|:-------------------------------:|:-------------------------------:|
 | 22       | 04-Oct-2024 | Fri (Morning Session)      | Lecture 22 - ROM & PLA with Implementation of Combinational Cicuits | [Text Book Pages: 180--185, 187--192](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| | [Text Book Pages: 315--319, 321--325](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
 
