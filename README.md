@@ -44,7 +44,7 @@
 | 24       | 14-Oct-2024 | Mon     | Lecture 24 - Return and Discussion of  Marked Mid Sem Answer Scipts | NA| NA |
 | 25       | 16-Oct-2024 | Wed      | Lecture 24 - Sequential Circuits - Latches | [Pending](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Pending](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
 | 26       | 18-Oct-2024 | Fri      | Lecture 25 - Sequential Circuits - Flip Flops | [Pending](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Pending](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
-| 27       | 19-Oct-2024 | Sat      | Lecture 26 - Sequential Circuits - F/F Conversion | [Pending](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Pending](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
+| 27       | 19-Oct-2024 | Sat (Compensation)     | Lecture 26 - Sequential Circuits - F/F Conversion | [Pending](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Pending](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
 
 
 ### Second Quiz ----- $\textcolor{blue}{To\ be\ announced\ later\}$ 
