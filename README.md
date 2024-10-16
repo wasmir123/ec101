@@ -42,9 +42,9 @@
 | 22       | 04-Oct-2024 | Fri (Forenoon)      | Lecture 22 ~ ROM & PLA with Implementation of Combinational Cicuits | [Text Book Pages: 180--185, 187--192](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Text Book Pages: 315--319, 321--325](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
 | 23       | 04-Oct-2024 | Fri (Afternoon)      | Lecture 23 ~ PAL with Implementation of Combinational Cicuits | [Text Book Pages: 192--196](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Text Book Pages: 325--329](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
 | 24       | 14-Oct-2024 | Mon     | Lecture 24 ~ Return and Discussion of  Marked Mid Sem Answer Scipts | NA| NA |
-| 25       | 16-Oct-2024 | Wed     | Lecture 25 ~ Sequential Circuits - Latches | [Pending](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Pending](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
-| 26       | 18-Oct-2024 | Fri      | Lecture 26 ~ Sequential Circuits - Flip Flops | [Pending](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Pending](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
-| 27       | 19-Oct-2024 | Sat (Compensation)     | Lecture 27 ~ Sequential Circuits - F/F Conversion | [Pending](https://drive.google.com/file/d/1t9tke_0BwNCAuvU4bkTzocWE8rABKpEo/view?usp=drive_link)| [Pending](https://drive.google.com/file/d/1GG-miG_277qthTCFn8XUaD2Y0xKo8zCO/view?usp=drive_link)|
+| 25       | 16-Oct-2024 | Wed     | Lecture 25 ~ Sequential Circuits - Latches | [Slide](https://drive.google.com/file/d/1XEYDZhIj-wg2DeBpJgC-PMKNfSmEyjaL/view?usp=drive_link)| [Text Book Pages: 182--186](https://drive.google.com/file/d/1PTlgBqAO4ofX4HbTaUM2y_oYx1koRbWP/view?usp=drive_link)|
+| 26       | 18-Oct-2024 | Fri      | Lecture 26 ~ Sequential Circuits - Flip Flops | [Pending]()| [Pending]()|
+| 27       | 19-Oct-2024 | Sat (Compensation)     | Lecture 27 ~ Sequential Circuits - F/F Conversion | [Pending]()| [Pending]()|
 
 
 ### Second Quiz 🢣 $\textcolor{red}{To\ be\ announced\ later\}$ 
